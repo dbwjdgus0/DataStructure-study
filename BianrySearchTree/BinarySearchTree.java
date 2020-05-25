@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Name : À¯Á¤Çö
+// Name : Yoo JungHyun
 // Student ID : 20151142
 
 @SuppressWarnings("unchecked")
